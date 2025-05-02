@@ -1,0 +1,39 @@
+.backlogContainer {
+    display: flex;
+    height: 100vh;
+    background-color: #121212;
+    color: white;
+  }
+
+  .backlogHeader span {
+    font-weight: bold;
+  }
+  
+  
+  .sidebar {
+    width: 250px;
+    background-color: #1E1E1E;
+    padding: 20px;
+  }
+  
+  .mainContent {
+    flex-grow: 1;
+    padding: 20px;
+    background-color: #121212;
+    overflow: auto;
+  }
+
+  .createTaskButton{
+    background-color: #5076f1;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    margin-left: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+  .createTaskButton:hover {
+  background-color: #3a5cce;
+}

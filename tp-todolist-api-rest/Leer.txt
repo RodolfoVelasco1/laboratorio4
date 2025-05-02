@@ -1,0 +1,2 @@
+En el back iniciar una terminal y poner: npx nodemon app.js
+En el front iniciar terminal y poner: npm run dev

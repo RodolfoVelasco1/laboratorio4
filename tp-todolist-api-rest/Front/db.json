@@ -1,0 +1,16 @@
+{
+  "backlog": {
+    "tareas": [
+      {
+        "id": "dcec0ad4-31e0-4279-8ccf-72bd1f20b52d",
+        "titulo": "Tarea backlog",
+        "descripcion": "Descripcion tarea backlog",
+        "estado": "pendiente",
+        "fechaLimite": "2025-03-05"
+      }
+    ]
+  },
+  "sprintList": {
+    "sprints": []
+  }
+}
